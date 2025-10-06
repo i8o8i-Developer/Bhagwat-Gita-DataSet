@@ -1,8 +1,8 @@
 # Bhagwat Gita DataSet
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/username/Bhagwat-Gita-DataSet?style=social)](https://github.com/username/Bhagwat-Gita-DataSet)
-[![GitHub Forks](https://img.shields.io/github/forks/username/Bhagwat-Gita-DataSet?style=social)](https://github.com/username/Bhagwat-Gita-DataSet)
+[![GitHub Stars](https://img.shields.io/github/stars/i8o8i-Developer/Bhagwat-Gita-DataSet?style=social)](https://github.com/i8o8i-Developer/Bhagwat-Gita-DataSet)
+[![GitHub Forks](https://img.shields.io/github/forks/i8o8i-Developer/Bhagwat-Gita-DataSet?style=social)](https://github.com/i8o8i-Developer/Bhagwat-Gita-DataSet)
 
 ## Overview
 
